@@ -284,7 +284,7 @@ class Player extends Component {
     }                      
 
     ctx.drawImage(Resources.get('images/frogger.png'), 0, -5);  
-    ctx.drawImage(Resources.get('images/mauricio.png'), 146, 550);      
+    ctx.drawImage(Resources.get('images/mauricio.png'), 146, 535);      
 
     if(this.hasLost){   
         ctx.beginPath();        
