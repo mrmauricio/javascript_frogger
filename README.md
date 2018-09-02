@@ -2,7 +2,7 @@
 
 
 
-Releitura do clássico "Frogger" em Javascript, famoso jogo de arcade dos anos 80.
+Releitura em Javascript do clássico "Frogger", famoso jogo de arcade dos anos 80.
 
 
 
