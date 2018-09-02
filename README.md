@@ -23,11 +23,11 @@ Releitura em Javascript do clássico "Frogger", famoso jogo de arcade dos anos 8
   - W, A, S, D;
   - Setas do Numpad (8, 5, 4, 6);
 
-- Para deixar uma bandeira em um espaço do lado oposto basta que o jogador pise neste: a bandeira será deixada e o jogador transportado para o espaço inicial;
+- Para deixar uma bandeira em um espaço do lado oposto basta que o jogador chegue ao lugar correspondente. A bandeira será deixada e o jogador transportado para o espaço inicial;
 
-- O jogador começa com três vidas, e em cada colisão com o inimigo uma é perdida, transportando o jogador ao espaço inicial;
+- O jogador começa com três vidas e em cada colisão com o inimigo uma é perdida, transportando o jogador ao espaço inicial;
 
-- Cada vez que uma bandeira é deixada, os inimigos evoluem, alterando seu tipo e sua velocidade;
+- Cada vez que uma bandeira é deixada há uma evolução no comportamento dos inimigos, alterando seu tipo e sua velocidade;
 
 - Há um contador de tempo que, após a vitória do jogador, mostra em quantos segundos foi completado o jogo;
   
