@@ -24,11 +24,9 @@ class Component {
 
 
 class Enemy extends Component {
-  constructor(x, y, sprite, speed, /*spawnX, spawnY*/) {
+  constructor(x, y, sprite, speed) {
     super(x, y, sprite);
     this.speed = speed;
-    //this.spawnX = spawnX;
-    //this.spawnY = spawnY;
   }
 
 // Atualiza posição do inimigo de acordo com sua velocidade e o dt definido,
