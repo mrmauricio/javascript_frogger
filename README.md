@@ -1,33 +1,22 @@
 # [Udacity Frontend Nanodegree Arcade Game](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
+Javascript browser game based on the classic "Frogger", famous 80's arcade game.
 
-
-Releitura em Javascript do clássico "Frogger", famoso jogo de arcade dos anos 80.
-
-
-
-## Versão Online:
+## Online Version:
 
 <https://mrmauricio.github.io/javascript_frogger/>
 
+## Instructions:
 
+- The goal is to reach the opposite side five times, placing a flag in each of the five available spaces;
 
-## Instruções:
-
-
-
-- O objetivo do jogo é chegar ao lado oposto por cinco vezes, deixando uma bandeira em cada um dos cinco espaços disponíveis;
-
-- O jogador pode ser movimentado utilizando:
-  - Setas do teclado (up, down, left, right);
+- The player can be moved by pressing:
+  - Arrow Keys (up, down, left, right);
   - W, A, S, D;
-  - Setas do Numpad (8, 5, 4, 6);
+  - Numpad Arrow Keys (8, 5, 4, 6);
 
-- Para deixar uma bandeira em um espaço do lado oposto basta que o jogador chegue ao lugar correspondente. A bandeira será deixada e o jogador transportado para o espaço inicial;
+- The player starts with three lives. Each time it collide with an enemy, one life is lost and the player is moved back to the spawn point;
 
-- O jogador começa com três vidas e em cada colisão com o inimigo uma é perdida, transportando o jogador ao espaço inicial;
+- Each time a flag is placed the enemies evolve, changing its type and boosting its speed;
 
-- Cada vez que uma bandeira é deixada há uma evolução no comportamento dos inimigos, alterando seu tipo e sua velocidade;
-
-- Há um contador de tempo que, após a vitória do jogador, mostra em quantos segundos foi completado o jogo;
-  
+- After the player's victory, a timer appear in the screen showing in how many seconds the player beat the game;
