@@ -1,6 +1,6 @@
 # [Udacity Frontend Nanodegree Arcade Game](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
-Javascript browser game based on the classic "Frogger", famous 80's arcade game.
+Javascript game based on the classic "Frogger", famous 80's arcade game.
 
 ## Online Version:
 
