@@ -17,6 +17,6 @@ Javascript game based on the classic "Frogger", famous 80's arcade game.
 
 - The player starts with three lives. Each time it collide with an enemy, one life is lost and the player is moved back to the spawn point;
 
-- Each time a flag is placed the enemies evolve, changing its type and boosting its speed;
+- Each time a flag is placed on the opposite side the enemies evolve, changing its type and boosting its speed;
 
-- After the player's victory, a timer appear in the screen showing in how many seconds the player beat the game;
+- After the player's victory, a timer appear on the screen showing in how many seconds the player beat the game;
